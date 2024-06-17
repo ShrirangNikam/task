@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taking care for your pets !</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <nav class="nav">
+            <div class="logo flex">
+                <img class="logo-img" src="/images/logo.png" alt="logo">
+                <span class="logo-clr">Glocal</span>
+            </div>
+            <div class="logo-info">
+                <ul class="logo-opt flex">
+                    <li class="home-color">Home</li>
+                    <li>Categories</li>
+                    <li>About Us</li>
+                    <li>Products</li>
+                    <li>Pet Care</li>
+                    <li>Contact</li>
+                </ul>
+            </div>
+            <div class="logo-btn flex">
+                <button class="sign-in">Sign In</button>
+                <button class="register">Register</button>
+            </div>
+        </nav>
+        <main class="main">
+                <img src="images/paw.png" alt="Paw" class="image1"> <!-- Added image1 element -->
+                <img src="images/image.png" alt="Image" class="image2"> <!-- Added image2 element -->
+                <img src="images/second.png" alt="Second Image" class="image3"> <!-- Added image3 element -->
+                <img src="images/third.png" alt="Third Image" class="image5"> <!-- Added third image element -->
+                <img src="images/fourth.png" alt="Fourth Image" class="image6"> <!-- Added fourth image element -->
+                <img src="images/image.png" alt="Repeat Image" class="image7"> <!-- Added repeat image element -->
+                <img src="images/paw.png" alt="Paw" class="image4"> <!-- Added second paw element -->
+                <h1 class="main-headi">Get various services personalized
+                    <center>for your pets like </center></h1>               
+                <img src="images/pic1.jpg" alt="Pic1" class="pic101"> <!-- Added pic1 image element -->
+                <img src="images/pic2.jpg" alt="Pic2" class="pic202"> <!-- Added pic2 image element -->
+                <img src="images/pic3.jpg" alt="Pic3" class="pic303"> <!-- Added pic3 image element -->
+                <img src="images/pic4.jpg" alt="Pic4" class="pic404"> <!-- Added pic4 image element -->
+                <img src="images/pic5.jpg" alt="pic5" class="pic505"> <!-- Added pic5 image element -->
+        </main>
+    </div>
+    <script>
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'ArrowRight') {
+                window.location.href = 'Category1.html';
+            } else if (event.key === 'ArrowLeft') {
+                history.back();
+            } else if (event.key === 'R' || event.key === 'r') {
+                window.location.href = 'index.html';
+            }
+        });
+    </script>
+</body>
+</html>

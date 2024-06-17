@@ -1,0 +1,584 @@
+.container{
+    width: 100%;
+    height: 100%;
+    top: 5504px;
+    left: -1801px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: Hug (1,421px)px;
+    height: Hug (107.16px)px;
+    left: 9.42px;
+    padding: 20px 48px 20px 48px;
+    gap: 102px;
+    /* opacity: 0px; */
+
+}
+
+.logo{
+    width: Fixed (129px)px;
+    height: Hug (67.16px)px;
+
+}
+
+.logo-clr{
+    color: #FFAA00;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.home-color{
+    color: #FFAA00;
+    font-weight: 600;
+}
+
+.logo-img{
+    width: 64.81px;
+    height: 67.16px;
+}
+
+.logo-info{
+    width: Hug (660px)px;
+    height: Hug (23px)px;
+}
+
+.logo-opt{
+    text-decoration: none;
+    gap:40px;
+    list-style: none;
+}
+
+.logo-btn{
+    width: Hug (332px)px;
+    height: Hug (49px)px;
+    gap: 40px;
+
+}
+
+.logo-btn .sign-in{
+    background: #124C5F;
+    color:#fff;
+    width: 146px;
+    height: 49px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.logo-btn .register{
+    background: #C7E7E1;
+    width: 146px;
+    height: 49px;
+    left: 186px;
+    gap: 0px;
+    border: none;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.main{
+    position: relative;
+}
+
+.main-heading{
+    width: 1277px; /* Set the width */
+    height: 128px; /* Set the height */
+    position: absolute;
+    top: 50px; /* Set the top position */
+    left: 50px; /* Set the left position */
+    font-family: 'Playfair Display', serif; /* Set the font family */
+    font-size: 86px; /* Set the font size */
+    font-weight: 700; /* Set the font weight */
+    line-height: 127.97px; /* Set the line height */
+    letter-spacing: 0.05em; /* Set the letter spacing */
+    text-align: left; /* Align the text to the left */
+    background-color: #FFFFFF; /* Set background color */
+    z-index: 10;
+
+}
+
+.pic1{
+    position: absolute;
+    width: 270px;
+    height: 350px;
+    top: 60px;
+    left: 780px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 30;
+}
+
+.pic2{
+    position: absolute;
+    width: 270px;
+    height: 320px;
+    top: 10px;
+    left: 1000px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 20;
+}
+
+.pic3{
+    position: absolute;
+    width: 200px;
+    top: 60px;
+    left: 610px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 20;
+}
+
+.pic4{
+    position: absolute;
+    width: 240px;
+    height: 220px;
+    top: 300px;
+    left: 930px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.pic5{
+    position: absolute;
+    width: 223px;
+    top: 214px;
+    left: 670px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.image1{
+    position: absolute;
+    width: 73.94px;
+height: 73.42px;
+top: 80px;
+left: 450px;
+background-color: transparent;
+z-index: 20;
+
+}
+
+.image2{
+    position: absolute;
+    width: 73.94px;
+height: 73.42px;
+top: 10px;
+left: 250px;
+background-color: transparent;
+z-index: 20;
+}
+
+.image3{
+    position: absolute;
+    width: 31px;
+top: 70px;
+left: 110px;
+background-color: transparent;
+z-index: 20;
+}
+
+.image5{
+    position: absolute;
+    width: 70px;
+top: 300px;
+left: 410px;
+background-color: transparent;
+z-index: 20;
+}
+
+.image6{
+    position: absolute;
+    width: 62px;
+top: 370px;
+left: 170px;
+background-color: transparent;
+z-index: 20;
+}
+
+.image7{
+    position:absolute;
+    width: 67px;
+    top: 459px;
+    left: 50px;
+    background-color: transparent;
+    z-index: 20;
+}
+
+.image4{
+    position: absolute;
+    width: 67px;
+    top: 459px;
+    left: 520px;
+    background-color: transparent;
+    z-index: 20;
+
+}
+
+.pic41{
+    position: absolute;
+    width: 240px;
+    height: 220px;
+    top: 280px;
+    left: 930px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.pic11{
+    position: absolute;
+    width: 270px;
+    height: 455px;
+    top: 60px;
+    left: 770px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 30;
+}
+
+.pic20{
+    position: absolute;
+    width: 270px;
+    height: 320px;
+    top: 60px;
+    left: 970px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 20;
+
+}
+
+.pic22{
+    position: absolute;
+    width: 270px;
+    height: 320px;
+    top: 60px;
+    left: 900px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 20;
+}
+
+.pic33{
+    position: absolute;
+    width: 200px;
+    top: 60px;
+    left: 670px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 20;
+}
+
+.pic44{
+    position: absolute;
+    width: 240px;
+    height: 210px;
+    top: 300px;
+    left: 930px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.pic55{
+    position: absolute;
+    width: 223px;
+    top: 214px;
+    left: 670px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.main-headi{
+    width: 710px; /* Set the width */
+    height: 106px; /* Set the height */
+    position: absolute;
+    top: 100px; /* Set the top position */
+    left: 80px; /* Set the left position */
+    font-family: 'Playfair Display', serif; /* Set the font family */
+    font-size: 46px; /* Set the font size */
+    font-weight: 700; /* Set the font weight */
+    line-height: 80.97px; /* Set the line height */
+    letter-spacing: 0.0em; /* Set the letter spacing */
+    text-align: left; /* Align the text to the left */
+    background-color: #FFFFFF; /* Set background color */
+    z-index: 10;
+}
+
+.pic28{
+    position: absolute;
+    width: 270px;
+    height: 320px;
+    top: 60px;
+    left: 790px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 20;
+}
+
+.pic38{
+    position: absolute;
+    width: 200px;
+    top: 60px;
+    left: 750px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 20;
+}
+
+.pic48{
+    position: absolute;
+    width: 240px;
+    height: 210px;
+    top: 300px;
+    left: 820px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.pic58{
+    position: absolute;
+    width: 223px;
+    top: 214px;
+    left: 750px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.pic101{
+    position: absolute;
+    width: 270px;
+    height: 460px;
+    top: 60px;
+    left: 549px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: -25deg;
+    z-index: 30;
+}
+
+.pic202{
+    position: absolute;
+    width: 270px;
+    height: 320px;
+    top: 60px;
+    left: 990px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: 40deg;
+    z-index: 20;
+}
+
+.pic303{
+    position: absolute;
+    width: 200px;
+    top: 60px;
+    left: 750px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: -25deg;
+    z-index: 20;
+}
+
+.pic404{
+    position: absolute;
+    width: 240px;
+    height: 200px;
+    top: 300px;
+    left: 820px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: 10deg;
+    z-index: 20;
+}
+
+.pic505{
+    position: absolute;
+    width: 223px;
+    top: 100px;
+    left: 750px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: 15deg;
+    z-index: 20;
+}
+
+.main-head{
+    width: 710px; /* Set the width */
+    height: 106px; /* Set the height */
+    position: absolute;
+    top: 100px; /* Set the top position */
+    left: 80px; /* Set the left position */
+    font-family: 'Playfair Display', serif; /* Set the font family */
+    font-size: 20px; /* Set the font size */
+    font-weight: 700; /* Set the font weight */
+    line-height: 20px; /* Set the line height */
+    letter-spacing: 0.0em; /* Set the letter spacing */
+    text-align: left; /* Align the text to the left */
+    background-color: #FFFFFF; /* Set background color */
+    z-index: 10;
+}
+
+.cat{
+    width: 667px; /* Set the width */
+    height: 112px; /* Set the height */
+    position: absolute;
+    top: 50px; /* Set the top position */
+    left: 80px; /* Set the left position */
+    font-family: 'Playfair Display', serif; /* Set the font family */
+    font-size: 40px; /* Set the font size */
+    font-weight: 700; /* Set the font weight */
+    line-height: 20px; /* Set the line height */
+    letter-spacing: 0.0em; /* Set the letter spacing */
+    text-align: left; /* Align the text to the left */
+    background-color: #FFFFFF; /* Set background color */
+    z-index: 10;
+}
+
+/* Add this CSS to your existing style.css file */
+.pet-grooming {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    left: 90px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+.get-started-btn{
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    background: #124C5F;
+    color:#fff;
+    font-weight: 500;
+    left: 90px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+
+.cat-color{
+    color: #FFAA00;
+    font-weight: 600;
+}
+
+.buttons{
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    background: #124C5F;
+    color:#fff;
+    font-weight: 500;
+    left: 90px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+/* Styles for the new image with ellipse */
+.ellipse {
+    width: 508.74px;
+    height: 508.74px;
+    position: absolute;
+    top: 5px;
+    left: 738px;
+    transform: rotate(26.56deg); /* Rotate the image */
+    overflow: hidden; /* Ensure it fits within the ellipse */
+    border-radius: 50%; /* Create ellipse shape */
+    opacity: 1; /* Set opacity to visible */
+    display: flex; /* Use flexbox to position inner images */
+    justify-content: center; /* Center the inner images */
+    align-items: center; /* Center the inner images */
+}
+
+.ellipse img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire ellipse */
+    position: absolute; /* Use absolute positioning for inner images */
+}
+
+.ellipse .newimg1 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire ellipse */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 1; /* Place the first image on the bottom */
+}
+
+.ellipse .newimg2 {
+    width: 60%; /* Reduce the size to 50% of the ellipse */
+    height: 70%; /* Reduce the size to 50% of the ellipse */
+    object-fit: contain; /* Maintain aspect ratio */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 2; /* Place the second image above the first image */
+    transform: rotate(-18.56deg); /* Adjust rotation to align within ellipse */
+    opacity: 1; /* Set opacity to visible */
+}
+
+.ellipse .newimg3 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire ellipse */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 1; /* Place the first image on the bottom */
+}
+
+.ellipse .newimg4 {
+    width: 52%; /* Reduce the size to 50% of the ellipse */
+    height: 50%; /* Reduce the size to 50% of the ellipse */
+    object-fit: contain; /* Maintain aspect ratio */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 2; /* Place the second image above the first image */
+    transform: rotate(-28.56deg); /* Adjust rotation to align within ellipse */
+    opacity: 1; /* Set opacity to visible */
+}
+
+.ellipse .newimg5 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire ellipse */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 1; /* Place the first image on the bottom */
+}
+
+.ellipse .newimg6 {
+    width: 52%; /* Reduce the size to 50% of the ellipse */
+    height: 50%; /* Reduce the size to 50% of the ellipse */
+    object-fit: contain; /* Maintain aspect ratio */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 2; /* Place the second image above the first image */
+    transform: rotate(-28.56deg); /* Adjust rotation to align within ellipse */
+    opacity: 1; /* Set opacity to visible */
+}
+
+.ellipse .newimg7{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire ellipse */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 1; /* Place the first image on the bottom */
+}
+
+.ellipse .newimg8{
+    width: 52%; /* Reduce the size to 50% of the ellipse */
+    height: 50%; /* Reduce the size to 50% of the ellipse */
+    object-fit: contain; /* Maintain aspect ratio */
+    position: absolute; /* Use absolute positioning for inner images */
+    z-index: 2; /* Place the second image above the first image */
+    transform: rotate(-28.56deg); /* Adjust rotation to align within ellipse */
+    opacity: 1; /* Set opacity to visible */
+}

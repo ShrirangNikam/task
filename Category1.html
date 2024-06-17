@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taking care for your pets!</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> <!-- Added Google Fonts link -->
+</head>
+<body>
+    <div class="container">
+        <nav class="nav">
+            <div class="logo flex">
+                <img class="logo-img" src="/images/logo.png" alt="logo">
+                <span class="logo-clr">Glocal</span>
+            </div>
+            <div class="logo-info">
+                <ul class="logo-opt flex">
+                    <li>Home</li>
+                    <li class="cat-color">Categories</li>
+                    <li>About Us</li>
+                    <li>Products</li>
+                    <li>Pet Care</li>
+                    <li>Contact</li>
+                </ul>
+            </div>
+            <div class="logo-btn flex">
+                <button class="sign-in">Sign In</button>
+                <button class="register">Register</button>
+            </div>
+        </nav>
+        <main class="main">
+            <img src="images/paw.png" alt="Paw" class="image1">
+            <img src="images/image.png" alt="Image" class="image2">
+            <img src="images/second.png" alt="Second Image" class="image3">
+            <img src="images/third.png" alt="Third Image" class="image5">
+            <img src="images/fourth.png" alt="Fourth Image" class="image6">
+            <img src="images/image.png" alt="Repeat Image" class="image7">
+            <img src="images/paw.png" alt="Paw" class="image4">
+            <header class="cat">Categories</header>
+            <p><h1 class="main-head pet-grooming">Pet Grooming<br
+                <span class="description">Pet grooming is the process of maintaining your pet’s hygiene and enhancing their physical appearance,
+                     which includes tasks like washing, brushing, trimming fur, and clipping nail</span>
+                     <br/><button class="get-started-btn">Get Started</button><br/><br/><br/>
+                    <button class="buttons">Pet Grooming</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <text>Pet Clinic</text>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <text>Pet Daycare</text>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <text>Pet Training</text></h1></p>
+                    <div class="ellipse">
+                        <img src="images/newimg1.png" alt="Ellipse Image" class="newimg1">
+                        <img src="images/newimg2.png" alt="Ellipse Image" class="newimg2">        
+                    </div>
+                 
+        </main>
+    </div>
+    <script>
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'ArrowRight') {
+                window.location.href = 'Category2.html';
+            } else if (event.key === 'ArrowLeft') {
+                history.back();
+            } else if (event.key === 'R' || event.key === 'r') {
+                window.location.href = 'index.html';
+            }
+        });
+    </script>
+</body>
+</html>
